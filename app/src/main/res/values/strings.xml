@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleChat</string>
+    <string name="my_name">Gungde Aditya</string>
+    <string name="my_email">gungde@codeindonesia.com</string>
+    <string name="kim_name">Kim Kimberley</string>
+    <string name="kim_email">kim@tes.com</string>
+    <string name="clara_name">Clara Kimson</string>
+    <string name="clara_email">clara@tes.com</string>
+    <string name="anna_name">Anna Venn</string>
+    <string name="anna_email">anna@tes.com</string>
+</resources>
